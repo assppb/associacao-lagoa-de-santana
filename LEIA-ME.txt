@@ -6,3 +6,5 @@ Para publicar na Vercel: implante o conteúdo completo desta pasta como site est
 IMPORTANTE: conteúdo financeiro da transparência deve ser preenchido com documentos oficiais antes de alegar cumprimento das obrigações. O estatuto e a ata não foram incluídos em formato integral, pois contêm dados pessoais.
 
 Imagem de paisagem do banner: ilustrativa. Fotografias dos cards: recortes de capturas de tela fornecidas da rede social da associação.
+
+PORTAL DA TRANSPARÊNCIA: pagina transparencia.html e lista de dados em dados/transparencia.json. Envie também a pasta dados ao GitHub. Cadastre novas parcerias APENAS mediante documentação oficial, com arquivos anexos e valores documentados.
