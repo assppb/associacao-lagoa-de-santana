@@ -1,0 +1,8 @@
+SITE DA ASSOCIAÇÃO COMUNITÁRIA DE LAGOA DE SANTANA E ADJACÊNCIAS
+
+Para visualizar: extraia todo o ZIP e abra index.html no navegador. Não abra o HTML isolado fora da pasta extraída, pois as imagens e documentos estão em subpastas.
+Para publicar na Vercel: implante o conteúdo completo desta pasta como site estático.
+
+IMPORTANTE: conteúdo financeiro da transparência deve ser preenchido com documentos oficiais antes de alegar cumprimento das obrigações. O estatuto e a ata não foram incluídos em formato integral, pois contêm dados pessoais.
+
+Imagem de paisagem do banner: ilustrativa. Fotografias dos cards: recortes de capturas de tela fornecidas da rede social da associação.
